@@ -90,13 +90,17 @@ padding-top: 12px;
 a.info-box{
     text-decoration: none;
     background: rgba(255, 255, 255, .8);
-    width: 90%;
+    width: 70%;
     height: 90px;
-    display:block;
+    display: block;
+    flex-direction: column;
     margin: auto;
     margin-top: 12px;
-    padding; 1px;
+    padding: 1px;
+    border-radius: 15px;  
+    text-align: center;  
 }
+
 
 .info-box img{
     height: 70px;
@@ -109,6 +113,7 @@ a.info-box{
     margin-bottom: 0;
     width: 90%;
     color: #572800;
+    font-size: 1.5rem;
 }
 
 .info-box p{
@@ -116,6 +121,7 @@ a.info-box{
     padding: 0;
     width: 90%;
     color: #131313;
+    font-size: 1.1rem;
 }
 
 .info-box img.right{
