@@ -1,8 +1,11 @@
 # 🦁 Pine-City_Zoo
+---
 
 Pine City Zoo is a simple, multi-page website built using HTML and CSS. 
+---
 
 This project showcases a fictional zoo with information about animals, locations within the zoo, a weather page, and a feedback form. The focus was on building structure, navigation, and using external content like images and Wikipedia snippets.
+---
 
 
 🌟 Features
